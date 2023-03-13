@@ -1,1 +1,1 @@
-# R-Learning-With-John-Verzani
+# Statistics with R
