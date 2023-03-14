@@ -1,10 +1,5 @@
 # Learn Statistics and Regression Analysis with R
 
-+ The chapters above were created during the dates specified in each file by 
-  + following the book ["Using R for Introductory Statistics"](https://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf) by John Verzani,
-  + scripting on **Notepad++** , executing on **R 4.1.1** and **R Studio** using the stardard libraries,
-  + practising with real world data in **UsingR and MASS libraries** by **me, Erkam Minsin**.
-
 ## Table of Contents
 ### [Chapter 1: Data](#chapter-1-:-data)
 ### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
@@ -48,3 +43,16 @@ In this chapter, we cover nonparametric methods, including the Wilcoxon rank sum
 
 Chapter 10: Resampling Methods
 In this chapter, we cover resampling methods, including the bootstrap and permutation tests.
+
+## Reference
++ The book ["Using R for Introductory Statistics"](https://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf) by John Verzani
+
+## Code
++ Scripted on: **Notepad++** 
++ Executed on: **R 4.1.1** and **R Studio**
++ Dependent on : **Standard R libraries, UsingR and MASS libraries**
+ 
+## Author
+Erkam Minsin
++ Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
+  + practising with real world data in  by **me, Erkam Minsin**.
