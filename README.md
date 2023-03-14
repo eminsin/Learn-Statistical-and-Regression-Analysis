@@ -1,9 +1,9 @@
-# Learn Statistics and Regression Analysis with R
+# Statistics and Regression Analysis with R
 
-## Table of Contents
+## Contents
 ### [Chapter 1: Data](#chapter-1-:-data)
 * Instructions on installing R and R Studio
-* Some R essential 
+* Some R essentials 
   * Using R as a calculator
   * Assignment
   * Using c() to enter data
@@ -18,8 +18,21 @@
   * Using R's built-in libraries and data sets
   * Using the data sets that accompany this book
   * Other methods of data entry
-  * 
 ### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
+* Categorical Data
+  * Tables
+  * Barplots
+  * Pie Charts
+  * Factors
+* Numeric Data
+  * Stem-and-leaf plots
+  * Strip Charts
+  * The center:mean,median,and mode
+  * Variation:the variance,standard deviation,and IQR
+* Shape of a distribution
+  * Histogram
+  * Modes,symmetry, and skew
+  * Box plots
 ### [Chapter 3: Bivariate Data](#chapter-3-:-bivariate-data)
 ### [Chapter 4: Multivariate Data](#chapter-4-:-multivariate-data)
 ### [Chapter 5: Describing Populations](#chapter-5-:-describing-populations)
