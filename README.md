@@ -7,16 +7,17 @@
 
 ## Table of Contents
 ### [Chapter 1: Getting Started with R](#chapter-1-:-getting-started-with-R)
-Chapter 2: Basic Operations
-Chapter 3: Descriptive Statistics
-Chapter 4: Probability
-Chapter 5: Distributions
-Chapter 6: Hypothesis Testing
-Chapter 7: Regression
-Chapter 8: ANOVA
-Chapter 9: Nonparametric Methods
-Chapter 10: Resampling Methods
-Chapter 1: Getting Started with R
+### [Chapter 2: Basic Operations](#chapter-2-:-basic-operations)
+### [Chapter 3: Descriptive Statistics](#chapter-3-:-descriptive-statistics)
+### [Chapter 4: Probability](#chapter-4-:-probability)
+### [Chapter 5: Distributions](#chapter-5-:-distributions)
+### [Chapter 6: Hypothesis Testing](#chapter-6-:-hypothesis-testing)
+### [Chapter 7: Regression](#chapter-7-:-regression)
+### [Chapter 8: ANOVA](#chapter-8-:-anova)
+### [Chapter 9: Nonparametric Methods](#chapter-9-:-nonparametric-methods)
+### [Chapter 10: Resampling Methods](#chapter-10-:-resampling-methods)
+
+#### Chapter 1: Getting Started with R
 In this chapter, we learn how to install and use R, along with basic R syntax and data types. We also learn how to use RStudio, a popular integrated development environment for R.
 
 Chapter 2: Basic Operations
