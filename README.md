@@ -55,4 +55,3 @@ In this chapter, we cover resampling methods, including the bootstrap and permut
 ## Author
 Erkam Minsin
 + Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
-  + practising with real world data in  by **me, Erkam Minsin**.
