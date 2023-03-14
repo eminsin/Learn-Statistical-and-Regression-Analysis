@@ -1,7 +1,7 @@
 # Learn Statistics and Regression Analysis with R
 
 ## Table of Contents
-### [Chapter 1: Data](#chapter-1-:-data)
+### [Chapter 1: Data](#chapter-1-:-data)(https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis-with-R/blob/main/Chapter1.R)
 ### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
 ### [Chapter 3: Bivariate Data](#chapter-3-:-bivariate-data)
 ### [Chapter 4: Multivariate Data](#chapter-4-:-multivariate-data)
