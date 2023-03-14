@@ -6,16 +6,18 @@
   + practising with real world data in **UsingR and MASS libraries** by **me, Erkam Minsin**.
 
 ## Table of Contents
-### [Chapter 1: Getting Started with R](#chapter-1-:-getting-started-with-R)
-### [Chapter 2: Basic Operations](#chapter-2-:-basic-operations)
-### [Chapter 3: Descriptive Statistics](#chapter-3-:-descriptive-statistics)
-### [Chapter 4: Probability](#chapter-4-:-probability)
-### [Chapter 5: Distributions](#chapter-5-:-distributions)
-### [Chapter 6: Hypothesis Testing](#chapter-6-:-hypothesis-testing)
-### [Chapter 7: Regression](#chapter-7-:-regression)
-### [Chapter 8: ANOVA](#chapter-8-:-anova)
-### [Chapter 9: Nonparametric Methods](#chapter-9-:-nonparametric-methods)
-### [Chapter 10: Resampling Methods](#chapter-10-:-resampling-methods)
+### [Chapter 1: Data](#chapter-1-:-data)
+### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
+### [Chapter 3: Bivariate Data](#chapter-3-:-bivariate-data)
+### [Chapter 4: Multivariate Data](#chapter-4-:-multivariate-data)
+### [Chapter 5: Describing Populations](#chapter-5-:-describing-populations)
+### [Chapter 6: Simulation](#chapter-6-:-simulation)
+### [Chapter 7: Confidence Intervals](#chapter-7-:-confidence-intervals)
+### [Chapter 8: Significance Tests](#chapter-8-:-significance-tests)
+### [Chapter 9: Goodness of Fit](#chapter-9-:-goodness-of-fit)
+### [Chapter 10: Linear Regression](#chapter-10-:-linear-regression)
+### [Chapter 11: Analysis of Variance](#chapter-11-:-analysis-of-variance)
+### [Chapter 12: Two Extensions of the Linear Model](chapter-12-:-two-extensions-of-the-linear-model)
 
 #### Chapter 1: Getting Started with R
 In this chapter, we learn how to install and use R, along with basic R syntax and data types. We also learn how to use RStudio, a popular integrated development environment for R.
