@@ -1,7 +1,24 @@
 # Learn Statistics and Regression Analysis with R
 
 ## Table of Contents
-### [Chapter 1: Data](#chapter-1-:-data)(https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis-with-R/blob/main/Chapter1.R)
+### [Chapter 1: Data](#chapter-1-:-data)
+* Instructions on installing R and R Studio
+* Some R essential 
+  * Using R as a calculator
+  * Assignment
+  * Using c() to enter data
+  * Using functions on a data vector
+  * Creating structured data
+* Accessing data by using indices
+  * Assigning values to data vector
+  * Logical values
+  * Missing values
+  * Managing the work environment
+* Reading in other sources of data
+  * Using R's built-in libraries and data sets
+  * Using the data sets that accompany this book
+  * Other methods of data entry
+  * 
 ### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
 ### [Chapter 3: Bivariate Data](#chapter-3-:-bivariate-data)
 ### [Chapter 4: Multivariate Data](#chapter-4-:-multivariate-data)
