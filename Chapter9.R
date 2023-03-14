@@ -4,8 +4,7 @@
 # In the document, foundations of statistical knowledge is practiced on R.
 #
 # written by Erkam Minsin
-# find me on LinkedIn: https://www.linkedin.com/in/erkam-minsin-37537514a/
-#
+# 
 # last modified: Dec 2022
 # first written: Dec 2022
 
