@@ -6,7 +6,7 @@
   + practising with real world data in **UsingR and MASS libraries** by **me, Erkam Minsin**.
 
 ## Table of Contents
-### [Chapter 1: Getting Started with R](#chapter 1: getting started with R)
+### [Chapter 1: Getting Started with R](#chapter-1-:-getting-started-with-R)
 Chapter 2: Basic Operations
 Chapter 3: Descriptive Statistics
 Chapter 4: Probability
