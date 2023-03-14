@@ -5,9 +5,9 @@
   + scripting on **Notepad++** , executing on **R 4.1.1** and **R Studio** using the stardard libraries,
   + practising with real world data in **UsingR and MASS libraries** by **me, Erkam Minsin**.
 
-Table of Contents
++ Table of Contents
 Introduction
-Chapter 1: Basic Data Analysis
+(#Chapter 1: #Basic Data Analysis)
 Chapter 2: Probability
 Chapter 3: Confidence Intervals
 Chapter 4: Hypothesis Testing
