@@ -1,4 +1,4 @@
-# Statistics and Regression Analysis with R
+# Learn Statistics and Regression Analysis
 
 ## Description
 
