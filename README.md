@@ -2,14 +2,14 @@
 
 ## Description
 
-## Effort
-
 ## Author
 Erkam Minsin
 + Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 
 ## Reference
 + The book ["Using R for Introductory Statistics"](https://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf) by John Verzani
+
+## Effort
 
 ## Code
 + Scripted on: **Notepad++** 
