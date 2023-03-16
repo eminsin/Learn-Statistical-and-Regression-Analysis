@@ -1,4 +1,4 @@
-# Learn Statistics and Regression Analysis
+# Learn Statistical and Regression Analysis
 
 ## Description
 ## Author
