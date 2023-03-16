@@ -11,7 +11,7 @@ Erkam Minsin
 + Executed on: **R 4.1.1** and **R Studio**
 + Dependent on : **Standard R libraries, UsingR and MASS libraries**
 ## Contents
-### [Chapter 1: Data](#chapter-1-:-data)
+### [Chapter 1: Data](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter1.R)
 * Instructions on installing R and R Studio
 * Some R essentials 
   * Using R as a calculator
@@ -28,7 +28,7 @@ Erkam Minsin
   * Using R's built-in libraries and data sets
   * Using the data sets that accompany this book
   * Other methods of data entry
-### [Chapter 2: Univariate Data](#chapter-2-:-univariate-data)
+### [Chapter 2: Univariate Data](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter2.R)
 * Categorical Data
   * Tables
   * Barplots
@@ -43,7 +43,7 @@ Erkam Minsin
   * Histogram
   * Modes,symmetry, and skew
   * Box plots
-### [Chapter 3: Bivariate Data](#chapter-3-:-bivariate-data)
+### [Chapter 3: Bivariate Data](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter3.R)
 * Pairs of categorical variables
   * Making two-way tables from summarized data
   * Making two-way tables from unsummarized data
@@ -66,7 +66,7 @@ Erkam Minsin
   * Outliers in the regression model
   * Resistant regression lines: lqs() and rlm()
   * Trend lines
-### [Chapter 4: Multivariate Data](#chapter-4-:-multivariate-data)
+### [Chapter 4: Multivariate Data](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter4.R)
 * Viewing multivariate data
   * Summarizing categorical data
   * Comparing independent samples
@@ -85,7 +85,7 @@ Erkam Minsin
 * Types of data in R
   * Factors
   * Coercion of objects
-### [Chapter 5: Describing Populations](#chapter-5-:-describing-populations)
+### [Chapter 5: Describing Populations](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter5.R)
 * Populations
   * Discrete random variables
   * Continuous random variables
@@ -98,7 +98,7 @@ Erkam Minsin
 * The central limit theorem
   * Normal parent population
   * Nonnormal parent population
-### [Chapter 6: Simulation](#chapter-6-:-simulation)
+### [Chapter 6: Simulation](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter6.R)
 * The normal approximation for the binomial
 * for loops
 * Simulations related to the central limit theorem
@@ -111,7 +111,7 @@ Erkam Minsin
   * The geometric distribution
 * Bootstrap samples
 * Alternates to for loop
-### [Chapter 7: Confidence Intervals](#chapter-7-:-confidence-intervals)
+### [Chapter 7: Confidence Intervals](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter7.R)
 * Confidence interval ideas
   * Finding confidence intervals using simulation
 * Confidence intervals for a population proportion, p
@@ -127,7 +127,7 @@ Erkam Minsin
   * Confidence intervals based on the binomial
   * Confidence intervals based on signed-rank statistic
   * Confidence intervals based on the rank-sum statistic
-### [Chapter 8: Significance Tests](#chapter-8-:-significance-tests)
+### [Chapter 8: Significance Tests](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter8.R)
 * Significance test for a population proportion
   * Using prop.test() to compute p-values
 * Significance test for the mean (t-tests)
@@ -140,7 +140,7 @@ Erkam Minsin
   * Two sample tests of center with normal populations
   * Matched samples
   * The Wilcoxon rank-sum test for equality of center
-### [Chapter 9: Goodness of Fit](#chapter-9-:-goodness-of-fit)
+### [Chapter 9: Goodness of Fit](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter9.R)
 * The chi-squared goodness-of-fit test
   * The multinomial distribution
   * Pearson's chi-squared statistic
@@ -150,7 +150,7 @@ Erkam Minsin
   * Kolmogorov-Smirnov test
   * The Shapiro-Wilk test for normality
   * Finding parameter values using fitdistr()
-### [Chapter 10: Linear Regression](#chapter-10-:-linear-regression)
+### [Chapter 10: Linear Regression](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter10.R)
 * The simple linear regression model
   * Model formulas for linear models
   * Examples of the linear model
@@ -165,7 +165,7 @@ Erkam Minsin
   * Interpreting the regression parameters
   * Statistical inferences
   * Model selection
-### [Chapter 11: Analysis of Variance](#chapter-11-:-analysis-of-variance)
+### [Chapter 11: Analysis of Variance](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter11.R)
 * One-way ANOVA
   * Using R's model formulas to specify ANOVA models
   * Using oneway.test() to perform ANOVA
@@ -179,7 +179,7 @@ Erkam Minsin
   * Treatment coding for additive two-way ANOVA
   * Testing for row or column effects
   * Testing for interactions
-### [Chapter 12: Two Extensions of the Linear Model](chapter-12-:-two-extensions-of-the-linear-model)
+### [Chapter 12: Two Extensions of the Linear Model](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis/blob/main/Chapter12.R)
 * Logistic regression
   * Generalized linear models
   * Fitting the model using glm()
