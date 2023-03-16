@@ -1,21 +1,15 @@
 # Learn Statistics and Regression Analysis
 
 ## Description
-
 ## Author
 Erkam Minsin
 + Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
-
 ## Reference
 + The book ["Using R for Introductory Statistics"](https://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf) by John Verzani
-
-## Effort
-
 ## Code
 + Scripted on: **Notepad++** 
 + Executed on: **R 4.1.1** and **R Studio**
 + Dependent on : **Standard R libraries, UsingR and MASS libraries**
-
 ## Contents
 ### [Chapter 1: Data](#chapter-1-:-data)
 * Instructions on installing R and R Studio
